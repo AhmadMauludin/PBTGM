@@ -12,7 +12,7 @@
 2. Mampu mengidentifikasi prosedur pemrograman berorientasi objek
 3. Mampu mengidentifikasi keunggulan pemrograman berorientasi objek terhadap pemrograman struktural
 
-## Apersepsi
+### Apersepsi
 Dalam paradigma pemrograman berorientasi objek (OOP), pemecahan masalah tidak hanya berfokus pada urutan langkah-langkah (algoritma), tetapi juga pada identifikasi objek-objek yang relevan dengan masalah tersebut. Setiap objek memiliki atribut dan metode yang mendefinisikan karakteristik dan perilaku objek tersebut. Dengan menggabungkan dan berinteraksi antar objek, masalah dapat diselesaikan secara kolaboratif.
 
 Dalam konteks pemrograman berorientasi objek, kita bisa memodelkan departemen store sebagai sebuah sistem. Manajer, sekretaris, dan petugas administrasi bisa dianggap sebagai objek-objek dalam sistem tersebut. Jika objek "manajer" membutuhkan data dari objek "petugas administrasi", maka objek "manajer" akan mengirimkan pesan (method call) kepada objek "petugas administrasi" untuk mendapatkan data tersebut.
