@@ -8,6 +8,6 @@
 
 ## Bab 1 - Pemrograman Terstruktur dan Pemrograman berorientasi objek tingkat lanjut
 ### Tujuan Pembelajaran
-Mampu mengidentifikasi konsep pemrograman berorientasi objek
-Mampu mengidentifikasi prosedur pemrograman berorientasi objek
-Mampu mengidentifikasi keunggulan pemrograman berorientasi objek terhadap pemrograman struktural
+1. Mampu mengidentifikasi konsep pemrograman berorientasi objek
+2. Mampu mengidentifikasi prosedur pemrograman berorientasi objek
+3. Mampu mengidentifikasi keunggulan pemrograman berorientasi objek terhadap pemrograman struktural
