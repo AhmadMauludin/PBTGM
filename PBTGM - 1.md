@@ -8,9 +8,9 @@
 
 ## Bab 1 - Pemrograman Terstruktur dan Pemrograman berorientasi objek tingkat lanjut
 ### Tujuan Pembelajaran
-1. Mampu mengidentifikasi konsep pemrograman berorientasi objek
-2. Mampu mengidentifikasi prosedur pemrograman berorientasi objek
-3. Mampu mengidentifikasi keunggulan pemrograman berorientasi objek terhadap pemrograman struktural
+1. Mampu mengidentifikasi **konsep** pemrograman berorientasi objek
+2. Mampu mengidentifikasi **prosedur** pemrograman berorientasi objek
+3. Mampu mengidentifikasi **keunggulan pemrograman berorientasi** objek terhadap pemrograman struktural
 
 ### Apersepsi
 Dalam paradigma pemrograman berorientasi objek (OOP), pemecahan masalah tidak hanya berfokus pada urutan langkah-langkah (algoritma), tetapi juga pada identifikasi objek-objek yang relevan dengan masalah tersebut. Setiap objek memiliki atribut dan metode yang mendefinisikan karakteristik dan perilaku objek tersebut. Dengan menggabungkan dan berinteraksi antar objek, masalah dapat diselesaikan secara kolaboratif.
